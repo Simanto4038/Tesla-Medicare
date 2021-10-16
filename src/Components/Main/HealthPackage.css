@@ -1,0 +1,21 @@
+.icon-color
+{
+    font-size: 65px;
+    color: rgb(128, 125, 125);
+}
+
+.box
+{
+     background-color: white;
+}
+.box:hover
+{
+     box-shadow: 5px 4px 15px 4px thistle ;
+     color: rgba(221, 217, 220, 0.685);
+}
+.box:hover .icon-color
+{
+    font-size: 65px;
+    color: crimson;
+}
+
